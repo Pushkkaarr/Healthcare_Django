@@ -1,0 +1,10 @@
+/.env
+/.env.example
+/auth_app
+/doctors
+/healthcare_api
+/manage.py
+/mappings
+/myenv
+/patients
+/README.md
