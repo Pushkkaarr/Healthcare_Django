@@ -1,10 +1,8 @@
 /.env
 /.env.example
-/auth_app
-/doctors
-/healthcare_api
-/manage.py
-/mappings
+auth_app/migrations
+/doctors/migrations
+/healthcare_api/__pycache__
+/mappings/migrations
 /myenv
-/patients
-/README.md
+/patients/migrations
